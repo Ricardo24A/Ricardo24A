@@ -54,8 +54,17 @@ Me interesa el desarrollo de aplicaciones web, móviles y la gestión de proyect
 
 
 ## 📷 Capturas de pantalla
-![Proyecto 01](./imagenes/proyecto01.png)
-![Proyecto 02](./imagenes/proyecto02.png)
+### Proyecto 01
+![Proyecto 01 - Vista 1](./imagenes/Img1_Proyecto1.jpg)
+![Proyecto 01 - Vista 2](./imagenes/Img2_Proyecto1.jpg)
+
+### Proyecto 02
+![Proyecto 02 - Vista 1](./imagenes/Img1_Proyecto2.jpg)
+![Proyecto 02 - Vista 2](./imagenes/Img2_Proyecto2.jpg)
+
+### Proyecto 03
+![Proyecto 03 - Vista 1](./imagenes/Img1_Proyecto3.jpg)
+![Proyecto 03 - Vista 2](./imagenes/Img2_Proyecto3.jpg)
 
 
 ---
