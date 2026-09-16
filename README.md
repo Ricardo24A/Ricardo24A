@@ -1,89 +1,82 @@
-# 👋 Hola, soy Ricardo Asanza 
+<div align="center">
 
+# Hola, soy Freddy Ricardo Asanza Romero 👋
 
-Estudiante de **Ingeniería de Software** en ESPOL.
-Me interesa el desarrollo de aplicaciones web, móviles y la gestión de proyectos de software.
+### Estudiante de Ingeniería de Software · Backend & Web Development
 
+Construyo soluciones web, móviles y de escritorio, con especial interés en el backend, las bases de datos y la calidad del software.
 
----
+[![Email](https://img.shields.io/badge/Email-fasanza%40espol.edu.ec-0056D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasanza@espol.edu.ec)
+[![GitHub](https://img.shields.io/badge/GitHub-Ricardo24A-181717?style=for-the-badge&logo=github)](https://github.com/Ricardo24A)
 
+</div>
 
-## 🚀 Proyectos destacados
+## Sobre mí
 
+- 🎓 Estudio **Ingeniería de Software en ESPOL**.
+- 💻 Me enfoco en **desarrollo backend y aplicaciones web**.
+- 🧩 He trabajado con arquitecturas cliente-servidor, interfaces de escritorio, bases de datos relacionales y analizadores de lenguajes.
+- 📱 Actualmente también desarrollo aplicaciones móviles con **React Native y Expo** y refuerzo mis conocimientos de **TypeScript y testing**.
+- 🤝 Disfruto colaborar en equipo usando Git, GitHub y buenas prácticas de desarrollo.
 
-### [Proyecto 01 – Sistema de Gestión de Denuncias Ambientales](https://github.com/kimi2123/ecoAlerta)
-- **Estado:** Terminado
-- **Tecnologías:** React, Node.js, PHP, TailwindCSS
-- **Descripción:**  Desarrollo de una plataforma web intuitiva que permita a los ciudadanos reportar denuncias ambientales en tiempo real, promoviendo la participación ciudadana en la protección del medio ambiente.
+## Tecnologías
 
-### [Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos](https://github.com/Ricardo24A/POO-P3-G07)
-- **Estado:** Terminado  
-- **Tecnologías:** Java, JavaFX  
-- **Descripción:** Aplicación de escritorio que administra la participación de emprendedores en una feria.  
-  Permite registrar emprendedores, asignar stands, gestionar auspiciantes y secciones de la feria, así como vincular redes sociales a los participantes.  
+<div align="center">
 
+### Lenguajes
 
-### [Proyecto 03 – Sistema de Administración de Artículos Veterinarios](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)
-- **Estado:** Terminado
-- **Tecnologías:** Java (Swing), MySQL  
-- **Descripción:** Aplicación de escritorio que gestiona artículos y procesos de una veterinaria. Incluye módulos para administrar distribuidores, productos, pedidos y facturas, con formularios de registro y consulta.  
-- **Base de datos:** MySQL utilizada para almacenar información de clientes, productos, pedidos y facturas. 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
+### Desarrollo y datos
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Herramientas
 
-## 🛠️ Tecnologías que utilizo
-- **Python:** Desarrollo de un compilador propio para analizar la sintaxis del lenguaje de programación Ruby.  
-- **Java (OOP / JavaFX / Swing):** Utilizado para el desarrollo de aplicaciones de escritorio. En el *Proyecto 02* implementé la gestión de stands para una feria de emprendimientos (Java + JavaFX) y en el *Proyecto 03* la administración de artículos veterinarios (Java + Swing).  
-- **PHP:** Desarrollo de un backend RESTful para la gestión de denuncias ambientales en el *Proyecto 01*.  
-- **Node.js:** Implementación del servidor backend y lógica de negocio del *Proyecto 01*.  
-- **React + TailwindCSS:** Creación de un frontend dinámico, moderno e interactivo para la plataforma de denuncias ambientales (*Proyecto 01*).  
-- **MySQL:** Diseño y gestión de bases de datos relacionales para almacenar información de usuarios, clientes, productos, pedidos y facturas (*Proyecto 03*).  
-- **Git & GitHub:** Control de versiones, manejo de ramas y colaboración en equipo en todos los proyectos.  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+</div>
 
+## Proyectos destacados
 
-## 📫 Contacto
-- Correo institucional: fasanza@espol.edu.ec
-- GitHub: [github.com/Ricardo24A](https://github.com/Ricardo24A)
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [🌱 EcoAlerta](https://github.com/edarmijo/ecoAlerta) | Plataforma web colaborativa para reportar incidentes ambientales y fomentar la participación ciudadana. | React, Vite, PHP |
+| [🧠 Analizador de Ruby](https://github.com/edarmijo/ProyectoLPGrupo-6) | Analizador léxico, sintáctico y semántico para código Ruby, desarrollado con PLY e interfaz gráfica. | Python, PLY, Tkinter |
+| [🐾 Gestión veterinaria](https://github.com/edarmijo/ProyectoSistemasDeBasesDeDatos) | Aplicación de escritorio para gestionar productos, distribuidores, pedidos, clientes y facturación. | Java, Swing, MySQL |
+| [🍳 Recetas Fácil](https://github.com/Ricardo24A/recetas_facil) | Aplicación móvil multiplataforma para explorar y gestionar recetas mediante navegación basada en archivos. | React Native, Expo, JavaScript |
 
+## Actividad en GitHub
 
----
+<div align="center">
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ricardo24A&show_icons=true&theme=transparent&hide_border=true&locale=es)
 
-## 📷 Capturas de pantalla
-### Proyecto 01
-![Proyecto 01 - Vista 1](./imagenes/Img1_Proyecto1.jpg)
-![Proyecto 01 - Vista 2](./imagenes/Img2_Proyecto1.jpg)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo24A&layout=compact&theme=transparent&hide_border=true&locale=es)
 
-### Proyecto 02
-![Proyecto 02 - Vista 1](./imagenes/Img1_Proyecto2.jpg)
-![Proyecto 02 - Vista 2](./imagenes/Img2_Proyecto2.jpg)
+</div>
 
-### Proyecto 03
-![Proyecto 03 - Vista 1](./imagenes/Img1_Proyecto3.jpg)
-![Proyecto 03 - Vista 2](./imagenes/Img2_Proyecto3.jpg)
+## Contacto
 
+¿Quieres conversar sobre desarrollo de software, colaborar en un proyecto o compartir una oportunidad?
 
----
+- 📧 [fasanza@espol.edu.ec](mailto:fasanza@espol.edu.ec)
+- 💻 [github.com/Ricardo24A](https://github.com/Ricardo24A)
 
+<div align="center">
 
-## 🧾 Respuestas de cierre 
+_Gracias por visitar mi perfil._
 
-
-**1. ¿Cómo la IA generativa puede enriquecer y en qué limita?**
-- Enriquecer: sugiere estructuras, corrige sintaxis Markdown, propone ejemplos y plantillas.
-- Limita: puede generar soluciones superficiales o erroneas, si se usa sin validar.
-
-
-**2. ¿Cómo asegurar calidad, coherencia y autenticidad al usar IA en Markdown?**
-- Revisar manualmente, ejecutar y probar cualquier código o comado y verificar enlaces.
-
-
-**3. Principios éticos al usar IA en documentación técnica:**
-- Transparencia, responsabilidad, respeto y honestidad. Indicar cuando una parte fue generada asistida por IA.
-
-
----
+</div>
